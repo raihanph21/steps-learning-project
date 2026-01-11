@@ -1,3 +1,5 @@
+This is an exercise React.js project from a Udemy course. The styling was provided by the instructor, while I focused on implementing the application logic. It is also the first project where I applied state management to strengthen my understanding of React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
